@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cheran</string>
+    <string name="FCM_PREF">com.notesboard.admin.noticeboard.fcm_pref</string>
+    <string name="FCM_TOKEN">com.notesboard.admin.noticeboard.fcm_token</string>
+</resources>
